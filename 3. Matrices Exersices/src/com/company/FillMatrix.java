@@ -11,9 +11,9 @@ public class FillMatrix
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String[] input = scan.nextLine().split(" ");
-        if(input[1]=="A"){
+        if(input[1].equals("A")){
             patternA(Integer.parseInt(input[0]));
-        }else if(input[1]=="B"){
+        }else if(input[1].equals("B")){
             patternB(Integer.parseInt(input[0]);
         }
     }
