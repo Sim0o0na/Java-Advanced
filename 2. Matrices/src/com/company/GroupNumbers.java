@@ -31,9 +31,6 @@ public class GroupNumbers {
             }
         }
 
-//        System.out.println(Arrays.toString(nullRemainder.toArray()));
-//        System.out.println(Arrays.toString(oneRemainder.toArray()));
-//        System.out.println(Arrays.toString(twoRemainder.toArray()));
         System.out.println(Arrays.asList(nullRemainder).toString().substring(1).replace(", ", " ").replace("]", "").replace("[", ""));
         System.out.println(Arrays.asList(oneRemainder).toString().substring(1).replace(", ", " ").replace("]", "").replace("[", ""));
         System.out.println(Arrays.asList(twoRemainder).toString().substring(1).replace(", ", " ").replace("]", "").replace("[", ""));

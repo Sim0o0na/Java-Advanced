@@ -54,8 +54,8 @@
       <file leaf-file-name="GroupNumbers.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/GroupNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state relative-caret-position="247">
+              <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,8 +94,8 @@
         <option value="$PROJECT_DIR$/src/com/company/SumMatrixElements.java" />
         <option value="$PROJECT_DIR$/src/com/company/Maximum2x2SubMatrix.java" />
         <option value="$PROJECT_DIR$/src/com/company/TextUtils.java" />
-        <option value="$PROJECT_DIR$/src/com/company/GroupNumbers.java" />
         <option value="$PROJECT_DIR$/src/com/company/PascalTriangle.java" />
+        <option value="$PROJECT_DIR$/src/com/company/GroupNumbers.java" />
       </list>
     </option>
   </component>
@@ -609,8 +609,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/GroupNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="247">
+          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
