@@ -17,7 +17,7 @@ public class CopyBytes {
         Path path = Paths.get("E:\\input.txt");
         Path output = Paths.get("E:\\output.txt");
 
-        try() {
+        try {
             List<String> lines = Files.readAllLines(path);
             Collections.sort(lines);
             Files.write(output, lines);
